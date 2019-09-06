@@ -1,0 +1,159 @@
+html{
+	margin: 0%;
+	padding:0%;
+}
+header{
+	position: relative;
+	bottom: 40px;
+	background-color: lightseagreen;
+}
+header img{
+	position: relative;
+	top: 6px;
+}
+header input{
+	position: relative;
+	float: right;
+	top: 30px;
+	margin: 15px;
+	height: 30px;
+	width: 80px;
+	background-color: solid black;
+	border-radius: 5px;
+	border: none;
+}
+button{
+	float:right;
+}
+#header{
+	position: relative;
+	bottom: 61px;
+	border: 5px solid ;
+}
+#slide{
+	position:relative;
+	bottom:85px;
+}
+#slide img{
+	margin:10px auto;
+	height:550px;
+	position:relative;
+	
+}
+.banner img{
+	position: relative;
+	top: 15px;
+	width: 100%;
+	height: 470px;
+	margin-bottom: 85px;
+}
+.event{
+	min-height: 1000px;
+}
+.event b{
+	font-size: 35px;
+}
+.event #row1{
+	position: relative;
+	top: 30px;
+}
+.event #row1 img{
+	height: 250px;
+	width: 560px;
+}
+.event #row1 p{
+	border: none;
+	height: 250px;
+}
+.event #row2{
+	position: relative;
+	top: 40px;
+}
+.event #row2 img{
+	height: 250px;
+	width: 560px;
+}
+.event #row2 p{
+	border: none;
+	height: 250px;
+}
+.event #row3{
+	position: relative;
+	top: 40px;
+	min-height: 350px;
+}
+.event #row3 img{
+	height: 250px;
+	width: 560px;
+}
+.event #row3 p{
+	border: none;
+	height: 250px;
+}
+.how{
+	min-height: 550px;
+}
+.how .row{
+	position: relative;
+	top: 20px;
+}
+.how p{
+	font-size: 15px;
+	text-align: center;
+}
+.how .no{
+	color: blue;
+	text-align: center;
+	font-size: 25px;
+	width: 40px;
+	border: 1px solid blue;
+	position: relative;
+	left: 110px;
+	border-radius: 20px;
+}
+.how .thumb{
+	position: relative;
+	top: 40px;
+}
+.how img{
+	width: 280px;
+}
+footer p{
+	font-size: 15px;
+}
+footer #href p{
+	margin: 10px;
+	padding: 10px;
+	width: 50px;
+	height: 47px;
+	border-radius: 30px;
+	display: inline-block;
+	border: none;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}
+footer #href #yt{
+	background-color: red;
+}
+footer #href #wa{
+	background-color: green;
+}
+p { font-size:15px; line-height:18px; color:solid black; }
+.href{
+	background-color: blue;
+}
+button{
+			width: 10%;
+			box-sizing: border-box;
+			padding: 10px;
+			margin-top: 30px;
+			outline: none;
+			border: none;
+			background:#60adde;
+			opacity: 10;
+			border-radius: 20px;
+			font-size: 20px;
+			color: #fff;
+		}
+		

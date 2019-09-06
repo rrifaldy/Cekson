@@ -1,0 +1,103 @@
+*{
+	margin: 0;
+	padding:0;
+}
+header img{
+	position: relative;
+	left: 5px;	
+	height: 95px;
+}
+header .ul1{
+	position: relative;
+	top: 30px;
+	left: 25px;
+}
+header .ul1 li{
+	list-style: none;
+	display: inline-block; 
+	padding-right: 25px;
+	padding-left: 25px;
+	height: 20px;
+	border-right: 1px solid black;
+	font-size: 13px;
+}
+header .ul1 a{
+	color: black;
+}
+header ul .garis{
+	border:none;
+}
+header .ul3{
+	position: relative;
+	left: 90px;
+}
+header .ul3 li{
+	list-style: none;
+	display: inline-block;
+	padding-right: 15px;
+	padding-left: 15px;
+	border-right: 1px solid black;
+}
+header .ul3 a{
+	color: black;
+}
+header .ul3 .garis{
+	border: none;
+}
+header .ul3 .garis a{
+	color: gold;
+}
+#form{
+	min-height: 500px;
+}
+form{
+	position: relative;
+	top: 30px;
+	margin: 30px auto;
+	border: 1px solid #aaa;
+	width: 500px;
+	padding: 15px;
+	min-height: 300px;
+}
+@media (min-width: 1200px);
+.container {
+    width: 488px;
+}
+form input{
+	width: 300px;
+	border: none;
+	border-bottom: 1px solid black;
+	padding: 5px;
+	margin: 15px;
+}
+form .login{
+	border: none;
+	border-radius: 5px;
+	width: 300px;
+	background-color: orange;
+	color: white;
+}
+form p a{
+	color: orange;
+}
+footer p{
+	font-size: 15px;
+}
+footer #href p{
+	margin: 10px;
+	padding: 10px;
+	width: 50px;
+	height: 47px;
+	border-radius: 30px;
+	display: inline-block;
+	border: none;
+	background-color: blue;
+	color: white;
+	font-size: 20px;
+}
+footer #href #yt{
+	background-color: red;
+}
+footer #href #wa{
+	background-color: green;
+}
